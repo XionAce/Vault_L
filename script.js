@@ -1,6 +1,6 @@
 let enteredPassword = "";
 const correctPassword = "071023"; // Change this to your desired passcode
-const redirectURL = "https://xionace.github.io/Clone_Repo_abii/"; // Change to your destination link
+const redirectURL = "https://xionace.github.io/For_abiii/"; // Change to your destination link
 
 function addNumber(num) {
     if (enteredPassword.length < 6) {
